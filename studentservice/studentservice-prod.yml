@@ -1,0 +1,10 @@
+profile:
+  type: prod
+
+
+school:
+  class:
+    class1: 一年级
+    class2: 二年级
+    class3: 三年级
+
